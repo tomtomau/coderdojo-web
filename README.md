@@ -1,8 +1,14 @@
-#Coderdojo Web
+# Coderdojo Web
 A public document set for helping Coderdojo Ninjas learn HTML, CSS and JavaScript (and hopefully much more!).
 
 ## Overview:
-1. ~~Introduction to Web Programming~~
+
+Here's some of the tutorials you can work through. If you need help or you need a challenge, ask a mentor!
+
+1. Introduction to web programming (this page!)
+2. Building your first webpage in HTML
+3. Styling your webpage with CSS
+
 
 
 ## Resources:
