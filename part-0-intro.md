@@ -8,5 +8,3 @@ Some of the things we'll go through in this document area:
 
 * what is a website?
 * how you can make a website
-
-##
