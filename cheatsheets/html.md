@@ -12,6 +12,7 @@ Paragraphs are simply made with a `<p>` tag!
 ```html
 <p>I'm learning to make a website at Coderdojo!</p>
 ```
+@TODO: \<strong>\<em> 
 
 ## Lists
 To start a list, you start with the opening list tag. There are two types of lists with a different tag for each - **o**rdered **l**ists (`<ol>`) and **u**nordered **l**ists (`<ul>`).
@@ -19,7 +20,7 @@ To start a list, you start with the opening list tag. There are two types of lis
 For each element/item you want in your list, you need to use the **l**ist **i**tem element (`<li>`).
 
 ### Ordered List Example:
-If you wanted to list something with numbers before each line, you will probably want to use an unordered list:
+If you wanted to list something with numbers before each line, you will probably want to use an ordered list:
 
 ```html
 <p>How to make a million dollars</p>
